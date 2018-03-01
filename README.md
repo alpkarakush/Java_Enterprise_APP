@@ -5,3 +5,9 @@ RESTful applications, working with databases on server, buisness logic on server
   The program imitates work of apartment renting management system.<br>
 Server side is tested on GlassFish server with Apache Derby database.<br>
 Client side's UI is implemented with Vaadin library.
+
+<p align="center">
+  <img src="screenshots/Client.png" width="850"/>
+  <img src="screenshots/Flats.png" width="850"/>
+  <img src="screenshots/Services.png" width="850"/>
+</p>
